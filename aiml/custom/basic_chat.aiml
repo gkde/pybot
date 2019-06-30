@@ -1,0 +1,58 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- basic_chat.aiml -->
+
+    <category>
+        <pattern>HALO</pattern>
+        <template>
+            Halo juga...
+        </template>
+    </category>
+    
+   <category>
+        <pattern>KAMU SIAPA</pattern>
+        <template>
+            Aku Rina... Kamu?
+        </template>
+    </category>
+    
+<category>
+      <pattern>NAMA SAYA *</pattern>
+      <template>
+         Hai <set name = "username"> <star/></set>...
+      </template>  
+   </category>  
+   
+  <category>
+      <pattern>SELAMAT MALAM</pattern>
+      <template>
+         Malam juga <get name = "username"/>
+      </template>  
+   </category>
+
+<category>
+    <pattern>GAS</pattern>
+    <template>
+        <random>
+            <li>Yuk...</li>
+            <li>Cus...</li>
+            <li>Bau tau, buang gas sembarangan :D</li>
+            <li>Gas kemana?</li>
+        </random>
+    </template>
+</category>
+
+<category>
+        <pattern>SANGE</pattern>
+        <template>
+            <random>
+               <li>ih jangan jorok deh</li>
+               <li>emang udah bisa sange?</li>
+               <li>kamu tu cabul banget deh</li>
+               <li>sange mulu kamu tu</li>
+               <li>sange tu apa coba jelasin?</li>
+           </random>
+        </template>
+    </category>
+
+
+</aiml>

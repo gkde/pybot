@@ -1,0 +1,50 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- toxic.aiml -->
+
+<category>
+        <pattern>HAI</pattern>
+        <template>
+            <random>
+               <li>Hai kak :)</li>
+               <li>Loha... :)</li>
+               <li>Walaikum salam kak...</li>
+           </random>
+        </template>
+    </category>
+
+<category>
+        <pattern>P</pattern>
+        <template>
+            <random>
+               <li>Hai kak :)</li>
+               <li>Hadir kak... :)</li>
+               <li>Pong...</li>
+           </random> 
+        </template>
+    </category>
+
+<category>
+        <pattern>TEST</pattern>
+        <template>
+            <random>
+               <li>123 dicoba... :)</li>
+               <li>Aman... :)</li>
+               <li>Ngetest apa'an?</li>
+           </random> 
+        </template>
+    </category>
+
+<category>
+        <pattern>ASS</pattern>
+        <template>
+               Walaikum salam kak...
+        </template>
+    </category>
+
+<category><pattern>ASSALAMUALAIKUM</pattern><template><srai>ASS</srai></template></category>
+<category><pattern>LOHA</pattern><template><srai>HAI</srai></template></category>
+<category><pattern>ASKUM</pattern><template><srai>ASS</srai></template></category>
+<category><pattern>HI</pattern><template><srai>HAI</srai></template></category>
+<category><pattern>TES</pattern><template><srai>TEST</srai></template></category>
+
+</aiml>

@@ -1,0 +1,8 @@
+sphinx
+dnspython
+PyNaCl
+async-timeout
+docopt
+aiml
+discord
+requests

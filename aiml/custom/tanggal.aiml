@@ -1,0 +1,15 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- tanggal.aiml -->
+
+<category>
+	<pattern>JAM</pattern>
+	<template>
+    Jam <system>date "+%H:%M %p"</system> kak...
+   </template>
+   </category>
+
+<category><pattern>JAM BERAPA SEKARANG</pattern><template><srai>JAM</srai></template></category>
+<category><pattern>SEKARANG JAM BERAPA</pattern><template><srai>JAM</srai></template></category>
+<category><pattern>JAM BERAPA</pattern><template><srai>JAM</srai></template></category>
+
+</aiml>

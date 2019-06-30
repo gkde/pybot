@@ -1,0 +1,49 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<!-- toxic.aiml -->
+
+<category>
+        <pattern>ASU</pattern>
+        <template>
+            <random>
+               <li>Jangan toxic ya kak :)</li>
+               <li>Ketikannya bisa dikondisikan ga?</li>
+               <li>Kasar banget deh Ketikannya :(</li>
+               <li>Jangan kasar yah nanti di silent loh kak...</li>
+               <li>Stttt.... Ga boleh ngomong kasar ya kak...</li>
+           </random>
+        </template>
+    </category>
+
+<category><pattern>_ JOH _</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>TAI</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>PEJOH</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>COK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>DANCOK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>MEMEK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>MEKI</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>TEMPEK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>TEMPIK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>JEMBOT</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>JEMBUT</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>KONTOL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>KONTIL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>PELI</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>SILIT</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>SILET</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>NGENTOT</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>ANJING</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>KAWEN</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>KAWIN</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>TITIT</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>PAYUDARA</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>PENTIL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>FUCK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>FAK</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>SU</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>JUH</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>TIL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>ITIL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>ITEL</pattern><template><srai>ASU</srai></template></category>
+<category><pattern>NJING</pattern><template><srai>ASU</srai></template></category>
+
+</aiml>
